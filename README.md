@@ -20,7 +20,7 @@ Installation
 
 # Clone the Repository:
 Bash
-git clone https://github.com/your-username/e-commerce-website.git
+git clone (https://github.com/Rishav-code-bit/e-commerse.git)
 
 Use code with caution.
 
