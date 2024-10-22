@@ -21,6 +21,7 @@ Installation
 # Clone the Repository:
 Bash
 git clone https://github.com/your-username/e-commerce-website.git
+
 Use code with caution.
 
 Open in a Code Editor: Use your preferred code editor to open the project files.
@@ -33,6 +34,9 @@ Fork the Repository: Create a fork of the repository on your GitHub account.
 Create a Branch: Create a new branch for your feature or bug fix.
 Make Changes: Implement your changes and commit them to your branch.
 Submit a Pull Request: Submit a pull request to the main repository, describing your changes.
+
+# deployed link 
+https://e-comerse.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/b006f8d8-aa15-4af6-96db-49dab9972ea8)
 
